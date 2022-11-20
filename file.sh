@@ -1,5 +1,3 @@
 #!/bin/bash
 
-read input
-
-$output = $input + 1
+echo "never mind"
